@@ -1,0 +1,13 @@
+.potensi ul {
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+.potensi li {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+
+.potensi p {
+    line-height: 1.6;
+}

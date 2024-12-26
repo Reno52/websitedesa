@@ -1,0 +1,9 @@
+.infrastructure ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.infrastructure li {
+    margin: 10px 0;
+    font-size: 1.1em;
+}

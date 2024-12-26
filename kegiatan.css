@@ -1,0 +1,13 @@
+.kegiatan ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.kegiatan li {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+
+.kegiatan p {
+    line-height: 1.6;
+}
